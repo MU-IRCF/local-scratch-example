@@ -1,5 +1,5 @@
 # local-scratch-example
-Demonstrate how to use `/local/scratch` with SLURM
+The `.sbatch` files in this repository are a couple of examples of how to properly use `/local/scratch` with SLURM.
 
 Key points when using `/local/scratch`:
 
